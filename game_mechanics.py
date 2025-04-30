@@ -1,7 +1,7 @@
 
 #---------------------------------------
 #  Game Mechanics
-#    Student A (team lead)
+#    Student A (Lead)
 #---------------------------------------
 
 def welcome_message():
