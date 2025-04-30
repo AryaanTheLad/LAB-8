@@ -1,6 +1,6 @@
 #---------------------------------------
 #  Question Bank
-#    Student B
+#    Student B (Team leader) Aryaan Qaiser 281132668
 #---------------------------------------
 
 import random
